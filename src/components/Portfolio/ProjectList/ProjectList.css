@@ -1,0 +1,14 @@
+.project-list {
+  column-count: 3;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  column-gap: 15px;
+  -moz-column-gap: 15px;
+  -webkit-column-gap: 15px;
+}
+
+.project_image {
+  width: 100%;
+  display: block;
+  margin-bottom: 15px;
+}

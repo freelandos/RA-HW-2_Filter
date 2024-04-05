@@ -1,0 +1,20 @@
+.toolbar {
+  display: flex;
+  justify-content: flex-start;
+  margin: 25px 0;
+}
+
+.toolbar_btn {
+  margin-right: 7px;
+  border: 1px solid #555555;
+  padding: 7px 14px;
+  background-color: #ffffff;
+  font-size: 16px;
+  color: #555555;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #555555;
+  color: #ffffff;
+}
